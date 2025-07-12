@@ -22,7 +22,7 @@ Python for backend and data handling
 
 Cloud platforms (like Firebase / AWS / Google Cloud)
 
-#Plan and need for optimizaton
+# Plan and need for optimizaton
 To enhance the functionality and user experience of the health monitoring system, we will be implementing a dedicated mobile application. This app will integrate with ThingSpeak to provide real-time data visualization and improved accessibility. By using the app:
 Users will be able to monitor their health parameters directly on their smartphones.
 Notifications and alerts will be delivered instantly.
