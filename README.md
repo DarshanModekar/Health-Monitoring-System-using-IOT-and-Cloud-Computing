@@ -22,4 +22,14 @@ Python for backend and data handling
 
 Cloud platforms (like Firebase / AWS / Google Cloud)
 
-Mobile app using Flutter or Android Studio
+#Plan and need for optimizaton
+To enhance the functionality and user experience of the health monitoring system, we will be implementing a dedicated mobile application. This app will integrate with ThingSpeak to provide real-time data visualization and improved accessibility. By using the app:
+Users will be able to monitor their health parameters directly on their smartphones.
+Notifications and alerts will be delivered instantly.
+The app will reduce dependency on the ThingSpeak web interface, offering a more optimized and user-friendly solution for managing health data.
+This implementation will ensure seamless connectivity and better optimization for end-users.
+
+
+<img width="955" height="618" alt="app" src="https://github.com/user-attachments/assets/8b6b012c-fb85-4909-918e-6fec987f9734" />
+
+
