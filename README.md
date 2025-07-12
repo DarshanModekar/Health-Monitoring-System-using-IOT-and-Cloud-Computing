@@ -12,6 +12,9 @@ Key features:
 📱 User-friendly mobile app for patients
 
 🧑‍⚕️ Health specialist access to analytics dashboard
+
+<img width="602" height="404" alt="Image" src="https://github.com/user-attachments/assets/ce08fb4e-11fd-4913-8edc-107f3f1c5ee6" />
+
 # ⚙️ Technologies Used
 IoT sensors for data collection
 
